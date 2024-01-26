@@ -1,4 +1,4 @@
-### Welcome to my Github! 👋
+> ## Welcome to my GitHub! 👋
 
 Hi there! I'm Grace, a statistician with over 3 years of expertise in data analytics, statistical modeling, and machine learning. I possess extensive programming skills and hands-on experience dealing with real-world data. Currently, I am actively looking for a Data Analytics position and am available to start working anytime! 
 
@@ -10,19 +10,6 @@ In March 2018, I launched my professional career as a statistician at Atrium Hea
 
 Eager to broaden my research scope and strengthen my data analytics expertise, I left Atrium Health to pursue a Ph.D. in Statistics. Despite initially securing two offers, unforeseen challenges such as COVID-19 and family issues made me to replan my career trajectory. Undeterred, I proactively recharged myself by enrolling in online courses on Coursera and Data Bootcamp. These experiences have not only sharpened my skills but also kept me abreast of the latest industry developments. Now, having successfully navigated these challenges, I am well-prepared to re-enter the job market with renewed focus and dedication.
 
-This is my Github, and I am sharing projects & coding work here, feel free to explore them and have fun!
+This is my GitHub, and I am sharing projects & coding work here, feel free to explore them and have fun!
 
-<!--
-**smartgrace/smartgrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
