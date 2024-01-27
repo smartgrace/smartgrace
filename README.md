@@ -12,4 +12,5 @@ Eager to broaden my research scope and strengthen my data analytics expertise, I
 
 This is my GitHub, and I am sharing projects & coding work here, feel free to explore them and have fun!
 
+![001_人生苦短我用python](media/14950329208518/001_%E4%BA%BA%E7%94%9F%E8%8B%A6%E7%9F%AD%E6%88%91%E7%94%A8python.jpg)
 
