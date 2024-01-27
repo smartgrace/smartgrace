@@ -6,12 +6,11 @@
 
 * I am sharing projects & coding work here, feel free to explore them and have fun!
 
+
 > ## About Me
 
 * 3+ years professional hands-on experience in data analysis, statistical modeling, machine learning handling real world data.
-  
 * Techniques: R, Python, SAS, SQL, EXCEL, REDCap, JAVA, TABLEAU, Power BI, MS Office Suite.
-  
 * Certificates: SAS Certified Base and Advanced Programmer (License: BP066192v9, AP021754v9)
 
 
