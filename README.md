@@ -10,7 +10,7 @@
 
 * Eager to broaden my research scope and strengthen my data analytics expertise, I left Atrium Health to pursue a Ph.D. in Statistics. Despite initially securing two offers, unforeseen challenges such as COVID-19 and family issues made me to replan my career trajectory. Undeterred, I proactively recharged myself by enrolling in online courses on Coursera and Data Bootcamp. These experiences have not only sharpened my skills but also kept me abreast of the latest industry developments. Now, having successfully navigated these challenges, I am well-prepared to re-enter the job market with renewed focus and dedication.
 
-> #### This is my GitHub, where I am sharing projects & coding work, feel free to explore them and have fun!
+#### I am sharing projects & coding work here, feel free to explore them and have fun!
 
 
 
