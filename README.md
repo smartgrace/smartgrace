@@ -12,5 +12,5 @@ Eager to broaden my research scope and strengthen my data analytics expertise, I
 
 This is my GitHub, and I am sharing projects & coding work here, feel free to explore them and have fun!
 
-![My Personal Website](https://grace-chunyi-yu.mystrikingly.com/) 
+
 
